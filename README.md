@@ -3,6 +3,8 @@
 This project is done by Akash BR.
 Want to know more about Me. LinkedIn: https://www.linkedin.com/in/akash-br-b86a94219/
 
+And please try the game, by clicking this link: https://akashbellary.github.io/Candy-Crush-clone/
+
 # About the project
 
 This Candy Crush game is clone version of one of the most downloaded and most played game, "Candy Crush".
